@@ -14,4 +14,11 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>jna.jar</name>
+			<type>1</type>
+			<locationURI>PROJECT_LOC/lib/jna.jar</locationURI>
+		</link>
+	</linkedResources>
 </projectDescription>
